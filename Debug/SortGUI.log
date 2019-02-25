@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/2/24 星期日 14:43:50。
+     1>项目“C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\SortGUI\SortGUI.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.6\msvc2013\include /I.\GeneratedFiles\Debug /ID:\Qt\5.6\msvc2013\include\QtCore /ID:\Qt\5.6\msvc2013\include\QtGui /ID:\Qt\5.6\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_SortGUI.cpp SortGUI.cpp main.cpp
+         moc_SortGUI.cpp
+         SortGUI.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\Win32\Debug\\SortGUI.exe" /NOLOGO /LIBPATH:D:\Qt\5.6\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5PrintSupportd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\Win32\Debug\SortGUI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\Win32\Debug\SortGUI.lib" /MACHINE:X86 /SAFESEH Debug\moc_qcustomplot.obj
+         Debug\moc_SortGUI.obj
+         Debug\moc_sortThread.obj
+         Debug\qrc_SortGUI.obj
+         Debug\main.obj
+         Debug\qcustomplot.obj
+         Debug\SortGUI.obj
+         Debug\sortThread.obj
+         SortGUI.vcxproj -> C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\Win32\Debug\SortGUI.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\QtProject\SortGUI\SortGUI\SortGUI\SortGUI\SortGUI.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.68
